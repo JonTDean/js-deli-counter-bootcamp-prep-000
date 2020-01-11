@@ -1,7 +1,7 @@
 katzDeliLine = [];
 
 
-function takeANumber(currentLine, newPerson){
+function takeANumber(){
 var newPerson = new Array();
 var currentLine = new Array();
  newPerson = ["Ada", "Grace", "Kent"];
