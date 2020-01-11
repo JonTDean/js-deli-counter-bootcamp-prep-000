@@ -2,6 +2,7 @@ katzDeliLine = [];
 
 function takeANumber(currentLine, newPerson){
  newPerson = ["Ada", "Grace", "Kent"];
- currentLine= 1;
- return console.log(`Welcome, ${newPerson}. You are number ${currentLine} in line.`);
+ currentLine = [1, 2, 3];
+ 
+ return console.log(`Welcome, ${newPerson[i]}. You are number ${currentLine[i]} in line.`);
 }
